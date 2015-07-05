@@ -1,3 +1,4 @@
 {
-  "ignore_dirs": ["tmp"]
+  "root_files": ["practice-ember"],
+  "ignore_dirs": ["tmp", "node_modules", "bower_components"]
 }
